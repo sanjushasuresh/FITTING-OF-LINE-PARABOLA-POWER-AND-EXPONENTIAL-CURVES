@@ -1,4 +1,4 @@
-Fitting of straight line, Parabola, Power curve and Exponential curve by least squares using R
+Fitting of straight line, Parabola, Power curve and Exponential curve by least squares using R.
 
 1. Fit a straight line for the following data and also plot the observed values in a graph
 x=0,1,2,3,4,5
